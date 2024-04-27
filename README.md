@@ -1,9 +1,11 @@
 # crudfirebase
-
-A new Flutter project.
+<br>
 C: Create
+<br>
 R: Read
+<br>
 U: Update
+<br>
 D: Delete
 
 
