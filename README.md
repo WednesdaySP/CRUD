@@ -7,8 +7,7 @@ R: Read
 U: Update
 <br>
 D: Delete
-
-
+<br>
 
 <img src="https://github.com/WednesdaySP/CRUD/assets/122176467/55e428ed-50bf-4026-a6b8-940eff322c43" width=300>
 <img src="https://github.com/WednesdaySP/CRUD/assets/122176467/7cd8e8ff-7028-4ebf-b827-bc25a3a19fcd" width=300>
